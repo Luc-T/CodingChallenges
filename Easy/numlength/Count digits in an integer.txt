@@ -1,0 +1,5 @@
+Given a number, the challange is to find the count of digits manually.
+
+This means without the use of len() for example.
+
+Inputs can only be 30 digits long.
